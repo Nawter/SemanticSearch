@@ -9,7 +9,7 @@ import java.io.*;
 import java.lang.Exception.*;
 
    /**
-    * Esta clase representa la operaciÃ³n de comparaciÃ³n del fichero de semilla seed.txt con el fichero
+    * Esta clase representa la operación de comparación del fichero de semilla seed.txt con el fichero
     * que contiene las expresiones temporales time.txt dando como resultado los tÃ©rminos temporales que
     * coinciden en ambos ficheros.
     * @version 0.1, 26/06/2011.
